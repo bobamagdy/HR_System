@@ -7,8 +7,7 @@ import { GenericFormComponent } from './lookup/generic-form/generic-form.compone
 
 @NgModule({
   declarations: [
-    AppComponent,
-    GenericFormComponent
+    AppComponent
   ],
   imports: [
     BrowserModule,
